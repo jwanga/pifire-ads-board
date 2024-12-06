@@ -445,7 +445,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pifire-ads-board.kicad_pro",
+    "filename": "pifire-ads-board-8-port.kicad_pro",
     "version": 1
   },
   "net_settings": {

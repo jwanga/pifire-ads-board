@@ -4,7 +4,7 @@
 
 ## What is this? 
 
-This PCB provides an easy way to add an ADS1x15 module to your PiFire build.  This allows you to have up to four different modules in your system, and can be chained together via I2C.  Use the solder jumpers to select a unique I2C address for each of the modules in your system (default is 0x48).  The PCB provides options for JST XH connectors or screw terminals (or if you want to solder wires directly to the board you can always do that too).  Lastly, there are boxes where you can designate the value of the populated resistors, for easy reference once you've built it out.  
+This PCB provides an easy way to add an ADS1x15 module to your PiFire build.  This allows you to have up to four different modules in your system, and can be chained together via I2C.  Use the pin header jumpers to select a unique I2C address for each of the modules in your system (default is 0x48).  The PCB provides options for JST XH connectors or screw terminals (or if you want to solder wires directly to the board you can always do that too).  Lastly, there are boxes where you can designate the value of the populated resistors, for easy reference once you've built it out.  
 
 The design intent for this board was to make a DIY accessible PCB that can be more easily put together by the maker/enthusiast of almost any skill level.  Full size components are used in most cases and most (if not all) parts should be readily available to order online.  See the [Interactive BOM](#interactive-bom) for more details about the parts used and links to order.
 
@@ -41,7 +41,7 @@ This intention of this PCB is to have a ADS1115 (or ADS1015) mounted to the top 
 
 #### Selecting I2C Address
 
-In addition, you may be able to have up to four of these boards in a single system by assigning different I2C addresses to each device.  These addresses can be selected by using the solder jumpers provided at the bottom of the board.  Simply select the address you want and close/short the solder jumper for that address.  
+In addition, you may be able to have up to four of these boards in a single system by assigning different I2C addresses to each device.  These addresses can be selected by using the pin header jumpers provided at the bottom of the board.  Simply select the address you want and close/short the solder jumper for that address.  
 
 ### JLCPCB Production Files
 

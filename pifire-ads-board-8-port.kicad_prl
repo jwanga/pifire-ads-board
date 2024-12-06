@@ -65,7 +65,7 @@
       40
     ],
     "visible_layers": "ffffff0_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "git": {
     "repo_password": "",
@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "pifire-ads-board.kicad_prl",
+    "filename": "pifire-ads-board-8-port.kicad_prl",
     "version": 3
   },
   "project": {
